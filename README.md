@@ -1,2 +1,2 @@
-# Portifolio
-Trabalho de IComp
+# Portifólio
+Trabalho de Introdução à Computação.
